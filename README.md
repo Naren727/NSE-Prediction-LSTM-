@@ -20,3 +20,13 @@ If you want a more vivid and complete understanding of the model then refer this
 ## Caution :
 During Actual Trading session various reasons may lead to discrepancies.For example a company may crash overnight which will not be predicted by the application.
 So when using to trade in the markets I advise caution and ask you to use it at your own risk
+
+## Test Case Outputs :
+Feature Selection : 
+![Screenshot (452)](https://user-images.githubusercontent.com/81982063/224481368-6b2e8c8b-9752-4e54-8e8c-a34af8dc2801.png)
+
+Model Performance for INFY(as of 10/3/23):
+![Screenshot (454)](https://user-images.githubusercontent.com/81982063/224481492-bdb139d5-207d-4cf4-b283-6a27f56f6744.png)
+
+![Screenshot (455)](https://user-images.githubusercontent.com/81982063/224481479-b2192f30-0811-427f-b2c7-18dc92f8e9cf.png)
+
