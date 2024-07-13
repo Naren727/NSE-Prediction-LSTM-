@@ -8,7 +8,7 @@ interested in the subject.For people who have no clue as to how the next trading
 ## What the user needs to do? :
 The user simply selects his/her stock that is listed on the National Stock Exchange(nse) that is a part of the Nifty 50 Stocks
 
-## What Otput does the user get :
+## What Output does the user get :
 The user gets a LSTM based prediction on what the next close price will be :
   - if the market is currently open then the model predicts what the current trading session will end on
   - if the market is closed then the model predicts the price for the next trading session.
